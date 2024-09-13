@@ -4,7 +4,7 @@
 <br>
 :heavy_check_mark: Atualmente desenvolvo projetos com as tecnologias abaixo, mas estou aprofundando meus conhecimentos em JS e React.
 <br>
-:computer: Aqui é onde passo parte do meu tempo desenvolvendo minha criatividade e transformando-a em códigos.
+:computer: Aqui é onde passo uma pequena parte do meu tempo desenvolvendo minha criatividade e transformando-a em códigos.
 <br>
 <br>
 
